@@ -1,0 +1,19 @@
+{
+    "name": "Moan Audio Personality Module",
+    "description": "Moan-only personality module for frick scenes. Custom moan/breath audio synced to the bot's live state (cumming/pleasure/fingering) on 0.97.1+.",
+    "modVersion": "1.3.2",
+    "OnGameStart": {
+        "luaScript": "",
+        "luaFiles": [
+            "script.lua"
+        ]
+    },
+    "targetVersion": "0.95.5",
+    "languageCode": "en",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 639113058179980160,
+        "guid": {
+            "serializedGuid": "2d74fec2-aefd-459c-8e7d-8af361a48dbe"
+        }
+    }
+}
